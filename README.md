@@ -1,4 +1,4 @@
-# Public f Dataset
+# Public fNIRS Dataset
 
 上期我们向大家推送了 **Public Neuroscience Dataset**  系列主题的第一期： [《EEG公开数据集》](https://github.com/hubandad/eegdataset/) ，此篇推文获得近2k阅读量，在感受到喜悦的同时，我们同时也意识到大家对于神经科学公开数据集的需求。本期是该系列主题的第二期，我们在延续第一期初衷的基础上，整理了功能性近红外光谱（fNIRS）技术的公开数据集。
 fNIRS 是一种非侵入性、便携且价格低廉的光学神经成像技术，它具有可观的空间和时间分辨率。因fNIRS技术问世较EEG晚了许多，所以应用此技术开展研究发表的成果和EEG不在一个量级，使用Google数据集检索发现，fNIRS没有系统的公开数据集。
