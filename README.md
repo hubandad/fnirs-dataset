@@ -128,4 +128,4 @@ fNIRS 是一种非侵入性、便携且价格低廉的光学神经成像技术�
 
 注：此地址有多个BCI - EEG数据集，第3个数据集为fNIRS数据集。 &#x20;
 
-Latested update: 4th July 2021
+Latested update: 23th Dec 2021
